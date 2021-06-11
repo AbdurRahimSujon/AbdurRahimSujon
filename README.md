@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AbdurRahimSujon
-- 👀 I’m interested in software development, web development
+- 👋 Hi, I’m @Abdur Rahim Sujon
+- 👀 Interested in software development, web development
      , data science and everything related IT sector. 
-- 🌱 I’m currently learning Java, JavaScript, CSS.
+- 🌱 I’m currently learning Java, JavaScript, CSS. Currently pursueing higher education 
+- in Middlesex University. 
  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
